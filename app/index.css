@@ -85,11 +85,13 @@ body {
 .edit-btn {
   width: 2rem;
   height: 2rem;
+  background-color: rgb(36, 198, 52);
 }
 
 .delete-btn {
   width: 2rem;
   height: 2rem;
+  background-color: rgb(234, 14, 14);
 }
 
 .inputs-container {
